@@ -1,4 +1,4 @@
-require 'activesupport'  
+require 'active_support/all'
 class Money
   include Comparable
   
